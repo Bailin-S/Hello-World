@@ -1,0 +1,9 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+cout << "Dane Joe 123 hwy.\nCalifornia 123123.\n1800 Dane Joe.\nScience major. ";
+
+}
