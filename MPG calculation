@@ -2,7 +2,7 @@
 
 int main()
 {
-int gallons = 15, miles = 275; // beginning integers we were given
+int gallons = 15, miles = 375; // beginning integers we were given
 int MPG = miles / gallons; // equation to find the miles per gallon calculation
 std::cout << MPG; // the display message
     return 0; // end
