@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-int gas = 20, MPGtown = 23.5, MPGhighway = 28.9;
-int distancetown = gas*MPGtown, distanctancehighway = gas*MPGhighway;
+int gas = 20, MPGtown = 23.5, MPGhighway = 28.9; // the amount of distance per miles and number of gallons of gas.
+int distancetown = gas*MPGtown, distanctancehighway = gas*MPGhighway; // the equation to find the distance traveled on the hwy and town
 cout << "With 20 gallons of gas you can drive " << distancetown << " miles in the town, and " << distanctancehighway << " miles on the highway.";
-}
+} // the display of distance statement
