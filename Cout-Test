@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-cout << "Dane Joe 123 hwy.\nCalifornia 123123.\n1800 Dane Joe.\nScience major. ";
+cout << "Dane Joe 123 hwy.\nCalifornia 123123.\n1800 Dane Joe.\nScience major. "; /* The 1st statement in the my name a adress,
+the 2nd one is what state im in, the 3rd is my phone number, and the 4th is my major. Each \n is a new line statement going
+below the previous */
 
 }
